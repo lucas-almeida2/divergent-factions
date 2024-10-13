@@ -1,5 +1,5 @@
 # 🔥 Projeto Divergente 🔥
-Bem-vindo ao projeto Divergente, uma aplicação interativa que apresenta as facções do futuro distópico divergente.
+Bem-vindo ao projeto Divergente, uma aplicação interativa que apresenta as facções presentes na sociedade distópica do universo divergente.
 - Projeto realizado no evento do canal Dev em Dobro em 2024
 
 # 📦 Recursos do Projeto!
